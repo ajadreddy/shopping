@@ -1,0 +1,17 @@
+body{
+    background-color: palegoldenrod;
+}
+.box1{
+    color: rgb(228, 104, 55);
+    text-align: center;
+}
+.box2{
+    color: red;
+    display: block;
+    border: 0px;
+    padding:5px;
+    margin-top:1px;
+    width:200px;
+    height:500px;
+    overflow: auto;
+}
